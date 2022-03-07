@@ -1,6 +1,6 @@
-uthor: Paul Valery Simo
+#author: Francis
 #Date: 03/04/2022
-#Email: valerydolce@gmail.com
+#Email: francoserges@gmail.com
 #-------------------------------------Install Docker and check its status----------------------------
 # Step 1 - Clean up the system
 echo -e "\nWe're about to cleanup the system...\n"
